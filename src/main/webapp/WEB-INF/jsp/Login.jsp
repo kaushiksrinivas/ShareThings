@@ -5,7 +5,7 @@
 <head>
 
   <title>Login- Share Things</title>
-  <link rel="stylesheet" href="CSS/loginstyle.css">
+  
 </head>
 <body>
 <%

@@ -30,6 +30,7 @@ public class LoginServlet {
 		String Mobile = req.getParameter("Mobile");
 		String Password = req.getParameter("Password");
 		String UserType = req.getParameter("UserType");
+		System.out.println(Mobile);
 		PrintWriter pw = null;
 		boolean MobileNoTest = false;
 		String DB_password = null;
